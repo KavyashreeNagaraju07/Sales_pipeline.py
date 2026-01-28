@@ -1,11 +1,11 @@
-📊 Sales Data Analysis with Python (Pandas)
+## Sales Data Analysis with Python (Pandas)
 
 This project demonstrates a simple, end-to-end data analysis pipeline using Python and Pandas.
 It loads sales data from a CSV file, calculates total revenue per product, filters high-value transactions, and prints a clean summary report.
 
 The script is plug-and-play — it automatically generates sample data, so no manual setup is required.
 
-🚀 Features
+## Features
 
 Automatically creates a sample sales_data.csv
 
@@ -19,13 +19,13 @@ Prints a formatted business summary report
 
 Beginner-friendly, readable, and reusable function design
 
-🗂️ Project Structure
+## Project Structure
 .
 ├── sales_data.csv        # Auto-generated sample dataset
 ├── analysis.py           # Main analysis script
 └── README.md             # Project documentation
 
-🧠 Business Logic
+## Business Logic
 
 Total Revenue is calculated as:
 
@@ -39,7 +39,7 @@ Total_Revenue > 1000
 
 The script also computes total company revenue across all products.
 
-🛠️ Technologies Used
+## Technologies Used
 
 Python 3
 
@@ -47,12 +47,9 @@ Pandas
 
 OS module
 
-▶️ How to Run
+## How to Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/sales-data-analysis.git
-
+Clone the repository
 
 Navigate to the project folder:
 
@@ -93,7 +90,7 @@ python analysis.py
 TOTAL COMPANY REVENUE: $12650
 ------------------------------
 
-🎯 Use Cases
+## Use Cases
 
 Beginner Python & Pandas practice
 
@@ -103,7 +100,7 @@ Data Analyst portfolio project
 
 Interview explanation of data processing logic
 
-🔮 Possible Enhancements
+## Possible Enhancements
 
 Export results to a new CSV or Excel file
 
@@ -115,7 +112,7 @@ Integrate with a database (PostgreSQL / SQLite)
 
 Convert into a reusable CLI tool
 
-👤 Author
+## Author
 
-Rahul Deevanapalli
+Kavyashree N
 Data Science | Data Analytics | Machine Learning
