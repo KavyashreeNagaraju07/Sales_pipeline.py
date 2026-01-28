@@ -20,10 +20,14 @@ Prints a formatted business summary report
 Beginner-friendly, readable, and reusable function design
 
 ## Project Structure
+
 .
 ├── sales_data.csv        # Auto-generated sample dataset
+
 ├── analysis.py           # Main analysis script
+
 └── README.md             # Project documentation
+
 
 ## Business Logic
 
